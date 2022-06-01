@@ -1,0 +1,3 @@
+R5T.F0021.Construction - Construction project for Roslyn syntax functionality with typed annotations..
+
+GOALS:
